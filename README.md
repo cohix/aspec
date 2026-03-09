@@ -16,6 +16,10 @@ The first step is to review `foundation.md` and fill in your project's specific 
 
 Next, review the `architecture`, `uxui`, `agentic` and `devops` folders to customize for your project.
 
-The general workflow will involve creating a `work item` from the `0000-item.md` template. Use work items as specs for specific features, bugs, or other development tasks you wish to collaborate with your agent on.
+For each update to your project's aspec, prompt your code agent to update their own project configuration (such as CLAUDE.md etc.).
 
-Eventually, you will want to review the `operations` folder to ensure the application can be deployed and run as desired.
+The reccomended daily workflow involves creating a new file in the `work-items` folder from `0000-template.md`. Use work items as specs for specific features, bugs, or other development tasks you wish to collaborate with your agent on.
+
+For new work items, simply complete the spec and then ask your agent to implement the work item.
+
+Eventually, you will want to review `devops/operations.md` to ensure the application can be deployed and run as desired.

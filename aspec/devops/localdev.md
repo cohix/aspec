@@ -5,14 +5,14 @@ Build tools: [make | npm | uv | other]
 
 ## Workflows:
 
-### Developer Loop:
+Developer Loop:
 - directions
 
-### Local testing:
+Local testing:
 - directions
 
-### Version control:
+Version control:
 - directions
 
-### Documentation:
+Documentation:
 - directions

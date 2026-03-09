@@ -1,7 +1,7 @@
 # Project Foundation
 
 Name: projectname
-Type: [agent| saas | cli | microservice | datapipeline]
+Type: [agent | saas | cli | microservice | datapipeline]
 Purpose: purpose
 
 # Technical Foundation

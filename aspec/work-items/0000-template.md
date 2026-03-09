@@ -1,6 +1,6 @@
 # Work Item: [Feature | Bug | Task]
 
-Name: name
+Title: title
 Issue: issuelink
 
 ## Summary:
@@ -25,6 +25,8 @@ description of result
 ## Edge Case Considerations:
 - considerations
 
+## Test Considerations:
+- considerations
 
 ## Codebase Integration:
-- integration
+- follow established conventions, best practices, testing, and architecture patterns from the project's aspec.

@@ -4,14 +4,20 @@ Platform: [github | gitlab]
 
 ## Pipelines:
 
-### Build:
+Build:
 - guidance
 
-### Test:
+Test:
 - guidance
 
-### Releases:
+Releases:
 - guidance
 
-### Deployment:
+Versioning:
+- guidance
+
+Publishing:
+- guidance
+
+Deployment:
 - guidance
